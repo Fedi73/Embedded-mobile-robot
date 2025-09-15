@@ -1,4 +1,4 @@
-# 🤖 Embedded Mobile Robot
+# Embedded Mobile Robot
 
 ### Overview
 Designed a custom motor controller PCB and integrated it into a robotics platform with ROS2.  
