@@ -23,6 +23,6 @@ ESP32-S3, Altium Designer, ROS2, OAK-D Lite, Raspberry Pi, Jetson, Python, SLAM
 
 ### Contributions
 - Designed and tested custom motor controller PCB
-- Integrated IMU + encoder 
+- Integrated IMU + encoder for sensor fusion
 - Implemented ROS2 visual SLAM pipeline on Raspberry Pi
 - Optimized mapping for both Pi and Jetson platforms
