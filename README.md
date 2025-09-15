@@ -18,7 +18,8 @@ ESP32-S3, Altium Designer, ROS2, OAK-D Lite, Raspberry Pi, Jetson, Python, SLAM
 - 📸 PCB Schematic: ![Schematic](media/PCB_schematic.png)
 - 📸 PCB Layout (2D): ![PCB 2D](media/PCB_2D.png)
 - 📸 PCB 3D Render: ![PCB 3D](media/PCB_3D_front.png)
-- 🎥 [Demo Video – 3D Mapping]([https://youtu.be/dddd](https://youtu.be/9H22JATravw))
+- 🎥 [Demo Video  – 3D Mapping](https://youtu.be/9H22JATravw)
+
 
 ### Contributions
 - Designed and tested custom motor controller PCB
